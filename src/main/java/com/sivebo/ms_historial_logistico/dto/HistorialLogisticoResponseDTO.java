@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class HistorialLogisticoResponse {
+public class HistorialLogisticoResponseDTO {
 
         Long id;
         Long idGuia;

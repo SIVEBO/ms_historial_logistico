@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class HistorialLogisticoRequest {
+public class HistorialLogisticoRequestDTO {
 
         @NotNull(message="el id de guia es obligatorio.")
         Long idGuia;
